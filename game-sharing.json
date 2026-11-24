@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 2,
+  "publicationOrigin": "https://aspectionstudios.github.io/rift-rascal-web",
+  "title": "Rift Rascal: The Infinite Cosmic Flea Market",
+  "description": "Blast-jump, grapple rifts, scoop strange salvage, cut absurd deals, and turn bizarre artifacts into upgrades in a vertical pocket-universe flea market.",
+  "defaultCaptions": {
+    "x": "Rift Rascal: a cosmic flea-market adventure where every piece of junk might be legendary.",
+    "facebook": "Blast-jump between floating market islands, collect strange salvage, trade with bizarre vendors, and survive Market Mayhem in Rift Rascal.",
+    "reddit": "Rift Rascal is a fast, playful cosmic salvage adventure packed with rifts, contracts, upgrades, oddities, and mayhem.",
+    "discord": "Open a shift in Rift Rascal: The Infinite Cosmic Flea Market. Scoop everything that is not bolted down."
+  },
+  "assets": {
+    "og": {
+      "digest": "sha256:fdd0fc13b75450d5bf0c39e070f3edef9d36950471a9678529501e0442dfebc7",
+      "path": "share/fdd0fc13b75450d5bf0c39e070f3edef9d36950471a9678529501e0442dfebc7.png",
+      "mime": "image/png",
+      "width": 1200,
+      "height": 675,
+      "sizeBytes": 1381262,
+      "sourcePath": "assets/share/og.png"
+    },
+    "favicon": {
+      "digest": "sha256:efd157da2207afa935b45059200cadfdae9b2c0f162d6cbcca005a7d49a4272c",
+      "path": "share/efd157da2207afa935b45059200cadfdae9b2c0f162d6cbcca005a7d49a4272c.png",
+      "mime": "image/png",
+      "width": 256,
+      "height": 256,
+      "sizeBytes": 98439,
+      "sourcePath": "assets/share/favicon.png"
+    }
+  }
+}
